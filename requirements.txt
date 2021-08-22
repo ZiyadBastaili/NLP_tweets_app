@@ -1,0 +1,11 @@
+pandas
+streamlit
+numpy
+textblob
+twint
+texthero
+plotly
+nltk
+googletrans==4.0.0rc1
+seaborn
+openpyxl
