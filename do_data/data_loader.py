@@ -1,5 +1,5 @@
 import streamlit as st
-from ..st_annotated_text import annotated_text
+from st_annotated_text import annotated_text
 import pandas as pd
 import re
 import requests
