@@ -39,8 +39,6 @@ from textblob import TextBlob
 
 from collections import defaultdict
 
-from streamlit.report_thread import get_report_ctx
-from streamlit import caching
 
 class DataLoader():
     def __init__(self):
