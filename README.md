@@ -35,12 +35,12 @@ Following this step to run the app :
   ```
 - Installing dataclasses using those commands :
   ```
-  pip3 install --user --upgrade git+https://github.com/twintproject/twint.git@origin/master#egg=twintt
+  pip3 install --user --upgrade git+https://github.com/twintproject/twint.git@origin/master#egg=twint
   pip3 install --user --upgrade git+https://github.com/himanshudabas/twint.git@origin/fix-parser#egg=twint
   ```
   or those commands if you are using Pycharm or Spyder or.. :
   ```
-  pip3 install --upgrade git+https://github.com/twintproject/twint.git@origin/master#egg=twintt
+  pip3 install --upgrade git+https://github.com/twintproject/twint.git@origin/master#egg=twint
   pip3 install --upgrade git+https://github.com/himanshudabas/twint.git@origin/fix-parser#egg=twint
   ```
 - And App is ready to running, hit this command :
